@@ -14,7 +14,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="43">
+          <list size="47">
             <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
             <item index="1" class="java.lang.String" itemvalue="protobuf" />
             <item index="2" class="java.lang.String" itemvalue="alembic" />
@@ -58,6 +58,10 @@
             <item index="40" class="java.lang.String" itemvalue="distlib" />
             <item index="41" class="java.lang.String" itemvalue="Mako" />
             <item index="42" class="java.lang.String" itemvalue="idna" />
+            <item index="43" class="java.lang.String" itemvalue="freeze" />
+            <item index="44" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="45" class="java.lang.String" itemvalue="pytz" />
+            <item index="46" class="java.lang.String" itemvalue="sqlparse" />
           </list>
         </value>
       </option>
